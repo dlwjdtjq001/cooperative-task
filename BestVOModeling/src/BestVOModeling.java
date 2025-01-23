@@ -28,5 +28,7 @@ public class BestVOModeling {
             System.out.printf("제목 : %s, 배우 : %s, 등급 : %d\n",
                     x.getTitle(), x.getActor(), x.getGrade());
         });
+        System.out.println("HI!");
+        System.out.println("HI!");
     }
 }
